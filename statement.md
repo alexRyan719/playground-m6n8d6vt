@@ -27,3 +27,13 @@ X. Remedies - adjust the visibility of your Friend's list to only Friends, even 
  - Test dash line
  
 Twitter | X app
+
+1. A lottery winner reached out to gift me money
+ - Even having just finished a 6 month cyber security boot camp, I still somewhat fell for this. 
+ I thought to myself "If I had won the lottery, how would I randomly hook people".
+ - I was about 60-80% sure this was a scam. But that 20-40%. 
+ - They sent me a picture of a FedEx driver, the name of the driver, the ID of the driver, and the 
+ whole time I'm wondering "why do you care so much about the driver".
+ - They wanted to deliver physical bundles of money to me via this driver. 
+
+
