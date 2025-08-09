@@ -1,4 +1,6 @@
 title: Cyber Security Best Practices and Threat Examples
 plan:
-- title: Python Snippet
-  statement: statement.md
+- title: Welcome
+  statement: MD/statement.md
+- title: Seen in the Wild
+  statement: MD/seen_in_the_wild.md
