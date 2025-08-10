@@ -35,3 +35,5 @@ X. Remedies - adjust the visibility of your Friend's list to only Friends, even 
 # Phone Call
 
 1. Student Loan Forgiveness
+
+# LinkedIn
