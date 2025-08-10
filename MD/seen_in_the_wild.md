@@ -37,3 +37,46 @@ X. Remedies - adjust the visibility of your Friend's list to only Friends, even 
 1. Student Loan Forgiveness
 
 # LinkedIn
+
+1. Someone made a fake profile of a high ranking member of the non profit I work for. That profile sent
+connection requests to several, if not all, of our team. I saw this the day before I acted, figured
+it looked scammy and ignored it. However, technically, I help manage the IT Security for where I work.
+
+So today, when I realized it was probably something I should head off, I ensured it was a fake profile 
+by finding the real profile, which is verified and has 500+ connections. I included links to both 
+profiles and sent direct messages to all those involved: the victim the malicious actor was impersonating, 
+and the victims that accepted the connection requests. 
+
+2. When I started at this company, someone used LinkedIn (I assume) to find out who the CEO / President
+used to be of the company I just hired on at and sent me a text message "from them". I asked the person 
+that was training me if it was legit, and he told me "oh no, that used to be the president long ago. That's
+a scam."
+
+The reason I think they got my
+phone number, and possibly email, is the LinkedIn data breach. 
+
+From Google AI:
+
+"""
+Yes, LinkedIn has experienced data breaches in the past where phone numbers were leaked. These leaks, 
+which have involved scraping of public profiles and other security incidents, have exposed phone numbers 
+along with other personal and professional information such as full names, email addresses, and job titles. 
+
+Details:
+
+Past Leaks:
+Several incidents involving the exposure of LinkedIn user data have occurred, with one notable instance in
+ 2021 where a hacker advertised 700 million profiles for sale on a dark web forum. 
+
+Data Compromised:
+The leaked data included full names, email addresses, phone numbers, LinkedIn profile URLs, job titles, 
+company information, social media account links, and more. 
+
+Impact on Users:
+Leaked phone numbers can be used for malicious activities such as spam calls, phishing attempts, and identity
+ theft. 
+
+Recommendations:
+Users are advised to be cautious of unsolicited calls or messages and to consider limiting the visibility of 
+their phone number on LinkedIn or other public platforms. 
+"""
