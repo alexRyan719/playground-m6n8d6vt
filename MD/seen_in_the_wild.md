@@ -80,3 +80,27 @@ Recommendations:
 Users are advised to be cautious of unsolicited calls or messages and to consider limiting the visibility of 
 their phone number on LinkedIn or other public platforms. 
 """
+
+# OnlyFans
+
+1. I have a free subscription to a lady that makes content on there. I was contacted by someone pretending to 
+be her on Facebook. I looked her up and found her real Facebook profile, which had the same image for the 
+profile picture as this fake account. I told the fake account I know they are fake as she would just talk to
+me with her real profile. The fake account said "oh no, this is my private account."
+
+The way that these services work is the content creator would only use their established social media accounts
+to conduct business. There is no reason to make "a private account" and talk with fans or customers. Period. 
+I told the fake account that when I find them, I'm not going to go easy on them. Maybe even physical violence. 
+She continued to argue, so I reported the fake profile and sent a DM to the real artist saying that I had
+a fake profile contact me. 
+
+2. I had a fake OF account try to get me to subscribe to what looked like a OF account that was using other 
+people's content. The description and aspects about it seemed like it was managed by an Indian company that
+just had a bunch of content of women that didn't work there. I reported this profile as well, as the "person"
+that was pretending to try and sell me content wasn't able to prove their identity. I asked for this "woman"
+to send me a picture with "a-Rye" written on her. "She" sent me a poorly photoshopped image of the text
+"a-Rye"...typed and with a color filled background that they tried to match her skin tone with. "She" was a 
+darker skinned lady and the color box that the text was in wasn't a perfect match. This was laughably horrible
+of a job trying to pose as someone else. AKA Catfishing. The "lady" also tried to do it with a coffee cup by 
+buying a coffee somewhere and photoshopping my alias of "a-Rye" on the coffee cup. I just stopped responding
+and reported the OF profile and explained that I think that profile was stealing content from other creators. 
