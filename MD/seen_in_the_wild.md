@@ -3,6 +3,35 @@
 These are some examples of malicious activity that I have seen "in the wild". Most of these either 
 happened to me, happened to someone I know, or I saw explained somewhere. 
 
+# General Cyber Attack Concepts
+
+1. Steal your login information
+
+The best way to trick your family and friends is to pretend to be you. Your connections are more 
+willing to give you money based on how well you know them. When a malicious actor steals your 
+login credentials to a social media account, they are riding your coattails of your social status
+to manipulate and steal either information (including other victims) or money / gift cards. 
+
+This is often done by a malicious link that will send you to a fake login website built to look
+just like the real login website. 
+
+I've also seen spam emails with Google Docs, Google Sheets, Google Forms, or some other way of
+entering a username and password combination and they ask you to provide your login credentials. 
+This is usually from a spoofed email meant to look like a school or workplace where you might 
+have login credentials to. 
+
+2. Trick you into paying to send you money
+
+I've seen this a couple ways. The first is the Nigerian Prince scam where a Nigerian Prince had
+his assets frozen and needed money. There was a promise of much more money to be paid back once
+the prince had his assets unfrozen. 
+
+That's the really popular scam, but the one I've seen I detail further down as the X App "Lottery 
+winner". That scammer was trying to convince me that I needed to send money to pay for a FedEx
+driver to deliver me a package of physical money. Right away, I knew it was weird to not just 
+wire money digitally. Anytime someone asks for something before they give you something, you
+need to be sure that they'll actually give you that something. 
+
 # Facebook
 
 1. My grandma friended me again with a second account using the same picture.
@@ -20,7 +49,7 @@ happened to me, happened to someone I know, or I saw explained somewhere.
 
 X. Remedies - adjust the visibility of your Friend's list to only Friends, even then just Mutual Friends
 
- - Test dash line
+
  
 # X app | Twitter
 
