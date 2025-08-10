@@ -1,6 +1,6 @@
 # Welcome to Cyber Security Basics!
 
-This is brief guide to a list of Cyber Security Best Practices and examples of threats seen "in the wild".
+This is a brief guide to a list of Cyber Security Best Practices and examples of threats seen "in the wild".
 
 # Passwords
 
