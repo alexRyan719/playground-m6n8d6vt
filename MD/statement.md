@@ -1,4 +1,4 @@
-# Welcome to Cyber Security Basics!
+# Welcome to Cyber Security Best Practices and Examples!
 
 This is a brief guide to a list of Cyber Security Best Practices and examples of threats seen "in the wild".
 
