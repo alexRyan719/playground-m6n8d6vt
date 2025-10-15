@@ -87,6 +87,7 @@ phone number, and possibly email, is the LinkedIn data breach.
 From Google AI:
 
 """
+
 Yes, LinkedIn has experienced data breaches in the past where phone numbers were leaked. These leaks, 
 which have involved scraping of public profiles and other security incidents, have exposed phone numbers 
 along with other personal and professional information such as full names, email addresses, and job titles. 
@@ -107,7 +108,8 @@ Leaked phone numbers can be used for malicious activities such as spam calls, ph
 
 Recommendations:
 Users are advised to be cautious of unsolicited calls or messages and to consider limiting the visibility of 
-their phone number on LinkedIn or other public platforms. 
+their phone number on LinkedIn or other public platforms.
+ 
 """
 
 # OnlyFans
