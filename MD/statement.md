@@ -1,6 +1,7 @@
 # Welcome to Cyber Security Best Practices and Threat Examples!
 
-This is a brief guide to a list of Cyber Security Best Practices and examples of threats seen "in the wild".
+This is a brief guide to a list of Cyber Security Best Practices and examples of threats seen "in the wild". I
+will continue to add to this list as I encounter new threats and attacks!
 
 # Passwords
 
