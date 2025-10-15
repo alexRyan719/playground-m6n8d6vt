@@ -61,9 +61,26 @@ X. Remedies - adjust the visibility of your Friend's list to only Friends, even 
  whole time I'm wondering "why do you care so much about the driver".
  - They wanted to deliver physical bundles of money to me via this driver. 
 
+# Click Bait Ads
+
+Already, you need to never click a click bait add. Just don't do it. 
+
+1. Car Insurance
+ - There was an add with a couple people discussing car insurance. They made it sound very appealing to
+ click and see how much the user could save. It started with how insurance is a scam as it's required to
+ drive. A large portion of insurance fees go to commission to the sales agent. I clicked it, started 
+ filling out the info, using fake info, until it just got too much. It was wanting phone number, physical 
+ address, email. I used Shotgun Willie's for the address, which is an adult club in Denver. 
+
+2. Whack a Sadam
+ - I downloaded a virus when I tried to play a mini game in a click bait ad to "Whack Sadam Hussein"
+
+
 # Phone Call
 
 1. Student Loan Forgiveness
+ - I gave out a little too much personal information before I realized the person calling wasn't from my
+ school or the government outfit that holds my loans. It was a cold call with my name and number. 
 
 # LinkedIn
 
@@ -135,3 +152,9 @@ darker skinned lady and the color box that the text was in wasn't a perfect matc
 of a job trying to pose as someone else. AKA Catfishing. The "lady" also tried to do it with a coffee cup by 
 buying a coffee somewhere and photoshopping my alias of "a-Rye" on the coffee cup. I just stopped responding
 and reported the OF profile and explained that I think that profile was stealing content from other creators. 
+
+# Groypers
+
+This is more a concern of communication and proper censorship. If you can discuss any topic long enough with 
+a Groyper, there is usually SOME common ground. Careful engaging, try to engage with respect even when none 
+is shown. After a while, they almost always (as we all would) simmer down to respectful dialogue. 
