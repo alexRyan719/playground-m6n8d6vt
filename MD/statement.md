@@ -65,6 +65,25 @@ These are just some examples of ways that you can ensure that your passwords are
 still need strong Multi Factor Authentication. The point of complex passwords is to force a malicious
 actor or service to guess many times, which in turn should trigger detection tools. 
 
+# Multi Factor Authentication
+
+Multi Factor Authentication (MFA) is a process of using more than one method to verify your identity.
+Normally, a username and password is all you needed to log into an account. Now, you will need to 
+use an additional method on top of your credentials. 
+
+Originally, this was achieved with a text message (SMS) or email. Text messages are not suggested to 
+be used for MFA. There was a major vulnerability of SMS not being encrypted cross platform. This may
+have been fixed, but there are more secure methods of MFA. 
+
+Authenticator apps are a better form of MFA and don't rely on a network connection. There are multiple
+free options, including Google Authenticator and Duo. Google Authenticator is handy as it requires a 
+login to a Google account. If you lose your device, you can simply disconnect the account login from 
+that device, as long as you have access to your Google account / profile on another device. Then, you
+can set a new device as the Recovery device. Google Authenticator will generate a code that's only 
+alid for a minute and then a new code is generated. 
+
+Passkeys are considered one of the strongest forms of MFA. This is where a digital fingerprint is taken
+of your info and your device's info. 
 
 # Never Give Out Too Much Information 
 
