@@ -153,6 +153,16 @@ of a job trying to pose as someone else. AKA Catfishing. The "lady" also tried t
 buying a coffee somewhere and photoshopping my alias of "a-Rye" on the coffee cup. I just stopped responding
 and reported the OF profile and explained that I think that profile was stealing content from other creators. 
 
+# Jail / Being Arrested
+
+With how much information is public around being arrested or incarcerated, some scammers have started taking 
+advantage of these situations. Anything that's normally required for probation or corrections is a new attack
+vector for malicious actors. Things like needing to install an interlock in a car, pay class fees, probation 
+fees, do substance use monitoring (UAs / BAs / Hair Follicle). Any of these open up ways for scammers to trick
+people and their families in this way.
+
+Source: Facebook post from the Loveland Police Department
+
 # Groypers
 
 This is more a concern of communication and proper censorship. If you can discuss any topic long enough with 
